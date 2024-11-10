@@ -5,6 +5,7 @@ import { Sequelize } from 'sequelize'
 import dotenv from 'dotenv'
 
 // console.log('PORT', dotenv.config())
+//
 
 const ENV = dotenv.config().parsed
 
